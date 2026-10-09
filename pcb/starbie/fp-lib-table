@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "starbie")(type "KiCad")(uri "C:/Users/zablm/Documents/KiCad/pcb/starbie.pretty")(options "")(descr ""))
+)
