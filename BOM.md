@@ -19,7 +19,7 @@
 | [resistor](https://www.alibaba.com/product-detail/1-8w-1-6w-1-4ws_62547031259.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) | make resistenc | 1 | $0.05 | $0.05 | [alibaba](https://www.alibaba.com/product-detail/1-8w-1-6w-1-4ws_62547031259.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) |
 | [Switch](https://www.alibaba.com/product-detail/KS-9-RGB-3pin-Hyper-Yellow_1600434640022.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) | so i can use it | 10 | $0.14 | $1.40 | [alibaba](https://www.alibaba.com/product-detail/KS-9-RGB-3pin-Hyper-Yellow_1600434640022.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) |
 | **Parts subtotal** | — | — | — | **$14.22** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.22** | — |
+| **Tax & shipping** | — | — | — | **$6.27** | — |
+| **Total** | — | — | — | **$20.49** | — |
 
-$15.78 left of the tier's funding.
+$9.51 left of the tier's funding.
