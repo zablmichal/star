@@ -20,7 +20,7 @@
 | [Switch](https://www.alibaba.com/product-detail/KS-9-RGB-3pin-Hyper-Yellow_1600434640022.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) | so i can use it | 10 | $0.14 | $1.40 | [alibaba](https://www.alibaba.com/product-detail/KS-9-RGB-3pin-Hyper-Yellow_1600434640022.html?spm=a2756.trade-carp.valid-supplier.2.76273192jwNYrh) |
 | [pcb](https://www.jlcpcb.com/) | main board | 1 | $9.90 | $9.90 | [JLCPB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$24.12** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.12** | — |
+| **Tax & shipping** | — | — | — | **$5.88** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$5.88 left of the tier's funding.
+**$0.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
